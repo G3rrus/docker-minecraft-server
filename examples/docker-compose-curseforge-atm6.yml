@@ -39,7 +39,7 @@ services:
       ALLOW_FLIGHT: "true"
       ONLINE_MODE: "true"
       ENABLE_RCON: "true"
-      RCON_PASSWORD: "iLoveBlackPenis1488"
+      RCON_PASSWORD: "somePassword"
     stdin_open: true
     restart: unless-stopped
     ports:
